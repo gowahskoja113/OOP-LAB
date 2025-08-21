@@ -63,7 +63,7 @@ public class Helper {
                     System.out.println("ID already exists. Please enter another ID!");
                 }
             }catch (NumberFormatException e) {
-                System.out.println("Incalid input. Please enter a valid interger.");
+                System.out.println("Invalid input. Please enter a valid interger.");
             }
         }
     }
